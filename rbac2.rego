@@ -19,7 +19,7 @@
 
 package permit
 
-default root = false
+default root = true
 
 # import data.utils
 
